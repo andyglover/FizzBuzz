@@ -6,3 +6,5 @@ Using my very fresh Javascript skills to solve FizzBuzz.
 - This was my first time embedding a .js file, and using a for loop and if/else statements.
 
 - I'd encountered FizzBuzz before, but never successfully solved it on my own, so, woohoo!
+
+- This project is published at http://www.andyglover.io/FizzBuzz/
