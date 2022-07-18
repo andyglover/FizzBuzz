@@ -7,6 +7,8 @@ Using my very fresh Javascript skills to solve FizzBuzz, a common programming ch
 
 - I'd encountered FizzBuzz before, but never successfully solved it on my own, so, woohoo!
 
+## :cup_with_straw: :bee:
+
 The rules of FizzBuzz are:
 
 - Print numbers from 1 to 100
